@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+
+.main p {
+    color: blue;
+    text-align: justify;
+    margin: 10%;
+    border: 10%;
+    padding: 10%;
+    
+}
+
+
+button {
+    color: orange;
+}
